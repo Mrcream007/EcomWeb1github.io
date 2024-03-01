@@ -1,0 +1,17 @@
+MYSQL 
+name
+slug 
+description
+status
+popular
+image
+meta_title
+meta_description
+meta_keywords
+created_at
+
+<!-- To add a border to the input tag of add category page -->
+.form-control{
+	border: 1px solid #b3a1a1 !important;
+	padding: 8px 10px;
+}
